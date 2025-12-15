@@ -3,14 +3,14 @@
 A lightweight, dependency-free Leaflet.js map with a clickable location list.
 Clicking a location zooms to the marker and opens its popup.
 
-## 🚀 Features
+## Features
 - Pure Leaflet.js (no plugins)
 - OpenStreetMap tiles
 - Clickable location list
 - Marker popup on click
 - Easily extendable
 
-## 📦 Installation
+## Installation
 Just clone or download the repository and open `index.html`.
 
 ```bash
